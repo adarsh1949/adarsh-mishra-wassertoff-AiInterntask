@@ -21,7 +21,7 @@ Before setting up the project, ensure you have:
 ✅ Google Calendar API & Slack API credentials
 Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/chaithanya-web/Gmail-Assistant-Application
+
 cd AI-Email-Assistant  
 2️⃣ Create a Virtual Environment
 bash
